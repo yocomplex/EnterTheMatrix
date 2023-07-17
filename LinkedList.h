@@ -1,11 +1,3 @@
-/*
-* Name: Joshua Zamora, NSHE: 5006270225, ASSIGNMENT 8
-* Description: Create a 2D linked list. The linked
-  list will contain a string in the data component that will
-  contain a 3 character string. 
-* Input: Main file
-* Output: expected output of the program by codegrade
-*/
 // libraries used
 #include <iostream>
 #include <ctime>
