@@ -4,7 +4,7 @@
 
 Overview of this project:
 Take down any hacker that enters the matrix. Create a 2-Dimensinal linked list that does not require any variables maintaining it’s dimensions. The linked list will contain a string in the
-data component that will contain a 3 character string *looking at this is better on RAW*:
+data component that will contain a 3 character string *looking at this is better on Raw*:
 
 qhj rsf lwc ecs pgt ohu
 bdc xax sci jjv neo msx
